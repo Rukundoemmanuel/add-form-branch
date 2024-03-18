@@ -1,6 +1,6 @@
 
 <!DOCTYPE html> <html> <head>  
-    <title> USER REGISTRATION</title> 
+    <title>REGISTRATION</title> 
 </head> 
  <body>
   <table> <form action="" method="POST"> 
